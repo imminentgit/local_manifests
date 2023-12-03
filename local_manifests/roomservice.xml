@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="imminent_github" fetch="ssh://git@github.com/imminentgit/" />
+  <remote name="imminent_gitlab" fetch="ssh://git@gitlab.com/imminent_/" />
+  <remote name="crdroid_gitlab" fetch="ssh://git@gitlab.com/crdroidandroid/" />
+</manifest>
