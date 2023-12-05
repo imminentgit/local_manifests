@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remove-project name="vendor_firmware" />
-  <project name="vendor_firmware" path="vendor/firmware" remote="imminent_gitlab" revision="main" />
+  <project name="firmware" path="vendor/firmware" remote="imminent_gitlab" revision="main" />
   <project path="vendor/oneplus/camera" remote="crdroid_gitlab" name="proprietary_vendor_oneplus_camera" revision="13.0"/>
 </manifest>
